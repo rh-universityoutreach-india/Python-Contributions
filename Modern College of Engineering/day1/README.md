@@ -5,8 +5,8 @@ first day[15-06-2018] of the workshop.
 
 ## Topics:
 
-  Variables
-  Operators
-  Iterators
-  Functions
+  * Variables
+  * Operators
+  * Iterators
+  * Functions
   

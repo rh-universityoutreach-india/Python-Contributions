@@ -1,0 +1,33 @@
+Name: FIZZ-BUZZ-FIZZBUZZ
+
+Description: Write a python program to 
+print FIZZ if number is muliple of 3, 
+print BUZZ if number if multiply by 5 and 
+print FIZZBUZZ if number is multiply by 15.
+
+Hint: 
+1. how to check number is divided by 2 (number%2 == 0)
+2. use functions
+3. use conditions if-else
+4. use prints
+
+
+Output:
+1
+2
+FIZZ
+4
+BUZZ
+FIZZ
+7
+8
+FIZZ
+BUZZ
+11
+FIZZ
+13
+14
+FIZZBUZZ
+16
+17
+

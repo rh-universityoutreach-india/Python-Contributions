@@ -1,0 +1,10 @@
+Name: Present sir!
+
+Description: Check if student is present in college list
+1. Define list of students (let say, 7 students)
+2. Take input from user and print if student is present in college list
+
+Output:
+Name of student: Anil
+Present sir!
+

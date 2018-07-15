@@ -1,0 +1,21 @@
+Name: The beer song
+
+Description: Write a python program to print beer song till 99 to 0
+
+Output:
+
+99 bottle of beer on the wall, 99 bottle of beer.
+Take one down, pass it around, 98 bottle of beer on the wall...
+
+98 bottle of beer on the wall, 98 bottle of beer.
+Take one down, pass it around, 97 bottle of beer on the wall...
+
+97 bottle of beer on the wall, 97 bottle of beer.
+Take one down, pass it around, 96 bottle of beer on the wall...
+
+....
+
+
+1 bottle of beer on the wall, 1 bottle of beer.
+Take one down, pass it around, 0 bottle of beer on the wall...
+

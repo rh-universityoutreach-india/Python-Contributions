@@ -1,0 +1,13 @@
+Name: Find area of circle
+
+Description: Write a python program to print area of circle in km.
+
+Hints:
+1. Check farmula for area of circle 
+2. Take input from user in km (single number)
+3. Use farmula
+
+Output: 
+
+Enter radius of circle: 10
+Area = 314 km
